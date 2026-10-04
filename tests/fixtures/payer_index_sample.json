@@ -1,0 +1,25 @@
+{
+  "reporting_entity_name": "FIXTURE PAYER",
+  "reporting_entity_type": "health insurance issuer",
+  "last_updated_on": "2026-08-20",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {"plan_name": "Plan A", "plan_id_type": "HIOS", "plan_id": "11111", "plan_market_type": "group"},
+        {"plan_name": "Plan B", "plan_id_type": "HIOS", "plan_id": "11111", "plan_market_type": "group"}
+      ],
+      "in_network_files": [
+        {"description": "Fixture PPO in-network file", "location": "https://example.test/ppo_in-network-rates.json.gz?sig=abc"},
+        {"description": "Fixture HMO in-network file", "location": "https://example.test/hmo_in-network-rates.json.gz"}
+      ]
+    },
+    {
+      "reporting_plans": [
+        {"plan_name": "Plan C", "plan_id_type": "HIOS", "plan_id": "22222", "plan_market_type": "group"}
+      ],
+      "in_network_files": [
+        {"description": "Fixture PPO in-network file", "location": "https://example.test/ppo_in-network-rates.json.gz?sig=def"}
+      ]
+    }
+  ]
+}

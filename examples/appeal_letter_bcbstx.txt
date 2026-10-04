@@ -1,0 +1,39 @@
+04 October 2026
+
+Blue Cross and Blue Shield of Texas
+Provider Services / Payment Disputes
+[Payer address]
+
+Re: Request for review of underpaid services - Example Billing Co. (fictional)
+
+Dear Provider Services team,
+
+We have compared the amounts allowed on the services below with the rates Blue Cross and Blue Shield of Texas publishes for this provider under the Transparency in Coverage rule. The allowed amounts are below the published rates:
+
+- Provider C (Leander, TX), code 97533, 2026: 334 lines allowed at an average of $43.44 against a published rate of $50.81 (difference $2,461.58; confidence HIGH)
+- Provider B (Austin, TX), code 97761, 2026: 258 lines allowed at an average of $26.60 against a published rate of $33.96 (difference $1,898.88; confidence HIGH)
+- Provider B (Austin, TX), code 97755, 2026: 294 lines allowed at an average of $25.15 against a published rate of $31.52 (difference $1,872.78; confidence HIGH)
+- Provider A (Austin, TX), code 97036, 2026: 335 lines allowed at an average of $23.39 against a published rate of $28.80 (difference $1,812.35; confidence HIGH)
+- Provider C (Leander, TX), code 97761, 2026: 187 lines allowed at an average of $27.46 against a published rate of $33.96 (difference $1,215.50; confidence HIGH)
+- Provider A (Austin, TX), code 97755, 2026: 254 lines allowed at an average of $27.69 against a published rate of $31.52 (difference $972.82; confidence HIGH)
+- Provider A (Austin, TX), code 97034, 2026: 338 lines allowed at an average of $8.65 against a published rate of $11.41 (difference $932.88; confidence HIGH)
+- Provider D (Killeen, TX), code 97168, 2026: 60 lines allowed at an average of $44.15 against a published rate of $58.42 (difference $856.20; confidence HIGH)
+- Provider A (Austin, TX), code 97761, 2026: 100 lines allowed at an average of $27.66 against a published rate of $33.96 (difference $630.00; confidence HIGH)
+- Provider A (Austin, TX), code 97533, 2026: 63 lines allowed at an average of $41.49 against a published rate of $50.81 (difference $587.16; confidence HIGH)
+- Provider A (Austin, TX), code 97033, 2026: 154 lines allowed at an average of $12.69 against a published rate of $15.76 (difference $472.78; confidence HIGH)
+- Provider D (Killeen, TX), code 97033, 2026: 124 lines allowed at an average of $12.39 against a published rate of $15.76 (difference $417.88; confidence HIGH)
+- Provider C (Leander, TX), code 97033, 2026: 193 lines allowed at an average of $13.60 against a published rate of $15.76 (difference $416.88; confidence HIGH)
+- Provider E (Austin, TX), code 97026, 2026: 344 lines allowed at an average of $4.71 against a published rate of $5.71 (difference $344.00; confidence HIGH)
+- Provider B (Austin, TX), code 97024, 2026: 389 lines allowed at an average of $5.22 against a published rate of $5.98 (difference $295.64; confidence HIGH)
+- Provider A (Austin, TX), code 97028, 2026: 329 lines allowed at an average of $5.98 against a published rate of $6.79 (difference $266.49; confidence HIGH)
+- Provider B (Austin, TX), code 97034, 2026: 136 lines allowed at an average of $9.63 against a published rate of $11.41 (difference $242.08; confidence HIGH)
+- Provider A (Austin, TX), code 97026, 2026: 257 lines allowed at an average of $5.09 against a published rate of $5.71 (difference $159.34; confidence HIGH)
+
+The total difference is $15,855.24. We request that you review these services, reprocess any claims paid below the applicable rate, and remit the difference. Claim-level detail is available on request.
+
+Sincerely,
+
+[Name]
+[Title]
+[Provider or billing company]
+[Contact details]

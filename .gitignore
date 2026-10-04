@@ -1,0 +1,19 @@
+# Data is downloaded or generated locally - never committed
+data/
+*.parquet
+*.duckdb
+*.gz
+
+# Real provider names from the NPPES registry - never publish
+reference/candidate_providers.csv
+reference/target_providers.csv
+
+# Python / tooling
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+.idea/
+.env
